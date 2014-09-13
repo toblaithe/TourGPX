@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+version="1.0"
+creator="Polar ProTrainer 5 - www.polar.fi"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/0"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2013-09-11T09:56:22Z</time>
+<trk>
+<trkseg>
+<trkpt lat="40.733583333" lon="-106.282023333">
+<time>2013-09-11T09:56:42Z</time>
+ <fix>none</fix>
+ <sat>0</sat>
+</trkpt>
+<trkpt lat="40.733788333" lon="-106.282018333">
+<time>2013-09-11T09:56:47Z</time>
+ <fix>none</fix>
+ <sat>0</sat>
+</trkpt>
+<trkpt lat="40.733946667" lon="-106.282005000">
+<time>2013-09-11T09:56:52Z</time>
+ <fix>none</fix>
+ <sat>0</sat>
+</trkpt>
+<trkpt lat="40.734048333" lon="-106.281986667">
+<time>2013-09-11T09:56:57Z</time>
+ <fix>none</fix>
+ <sat>0</sat>
+</trkpt>
+<trkpt lat="40.734115000" lon="-106.281986667">
+<time>2013-09-11T09:57:02Z</time>
+ <fix>none</fix>
+ <sat>0</sat>
+</trkpt>
+<trkpt lat="40.734151667" lon="-106.281981667">
+<time>2013-09-11T09:57:07Z</time>
+ <fix>none</fix>
+ <sat>0</sat>
+</trkpt>
+<trkpt lat="40.734146667" lon="-106.281971667">
+<time>2013-09-11T09:57:12Z</time>
+ <fix>none</fix>
+ <sat>0</sat>
+</trkpt>
+<trkpt lat="40.734140000" lon="-106.281958333">
+<time>2013-09-11T09:57:17Z</time>
+ <fix>none</fix>
+ <sat>0</sat>
+</trkpt>
+<trkpt lat="40.734136667" lon="-106.281953333">
+<time>2013-09-11T09:57:22Z</time>
+ <fix>none</fix>
+ <sat>0</sat>
+</trkpt>
+<trkpt lat="40.734133333" lon="-106.281946667">
+<time>2013-09-11T09:57:27Z</time>
+ <fix>none</fix>
+ <sat>0</sat>
+</trkpt>
+<trkpt lat="40.734135000" lon="-106.281950000">
+<time>2013-09-11T09:57:32Z</time>
+ <fix>none</fix>
+ <sat>0</sat>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
